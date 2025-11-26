@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left"> Product Owner | Vibe Coder ⚡<br><br>Transformando necessidades de negócio em produtos reais no mercado de Consórcios. Uso a tecnologia para hackear a produtividade e entregar valor mais rápido.<br><br>🔭 No meu radar agora:<br>Estou mergulhado na era do Vibe Coding, utilizando o poder da IA e Low Code para acelerar o desenvolvimento.<br><br>💻 Arsenal:<br> Cursor, Lovable, Google IA Studio para codar na velocidade do pensamento<br> Google Antigravity<br> Expertise em Produtos Financeiros & Backoffice<br><br>🍿 Offline:<br>Futebol + Anime + Cerveja = Fim de semana perfeito.<br><br>📫 Vamos conversar?<br>Sinta-se à vontade para explorar meus repositórios e ver como estou aplicando essas novas ferramentas!</p>
+<p align="left"> Product Owner | Vibe Coder ⚡<br><br>Transformando necessidades de negócio em produtos reais no mercado de Consórcios. Uso a tecnologia para hackear a produtividade e entregar valor mais rápido.<br><br>🔭 No meu radar agora:<br>Estou mergulhado na era do Vibe Coding, utilizando o poder da IA e Low Code para acelerar o desenvolvimento.<br><br>💻 Arsenal:<br> Cursor, Lovable, Google IA Studio para codar na velocidade do pensamento<br> Google Antigravity<br> Expertise em Produtos Financeiros & Backoffice<br><br>🍿 Offline:<br>Futebol + Anime + Cerveja = Fim de semana perfeito.<br><br>📫 Vamos conversar?<br>Sinta-se à vontade para explorar meus repositórios e ver como estou aplicando essas novas ferramentas!<br><br><br><br></p>
 
 ###
 
